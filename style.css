@@ -1,0 +1,8 @@
+img {
+    max-width: 300px;      /* Prevents the image from being huge */
+    height: auto;          /* Keeps the proportions correct */
+    border-radius: 50%;    /* Makes the photo a circle (perfect for profiles!) */
+    border: 5px solid #3498db;
+    display: block;        /* Helps with centering */
+    margin: 20px auto;     /* Centers the image on the page */
+}
