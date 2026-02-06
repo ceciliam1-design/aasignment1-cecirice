@@ -6,3 +6,6 @@ img {
     display: block;        
     margin: 20px auto;     
 }
+body {
+  background-color: lightblue; 
+}
